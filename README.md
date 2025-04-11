@@ -1,16 +1,31 @@
-# word_app
+# Word App
 
-A new Flutter project.
+A Flutter application designed to help users learn and memorize foreign language vocabulary. This app allows users to create, manage, and track their progress with English-Turkish word pairs.
+
+## Features
+
+- Add and edit vocabulary words with English and Turkish translations
+- Categorize words by type (noun, verb, adjective, adverb)
+- Mark words as learned with visual strikethrough indication
+- Filter words by type and learning status
+- Add memory aids through story/context notes
+- Attach images to words for visual association
+- Local database storage for offline access
+
+## Screenshots
+
+[Add screenshots of your app here]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (latest version recommended)
+- Dart SDK
+- Android Studio or VS Code with Flutter extensions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/word_app.git
